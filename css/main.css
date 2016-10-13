@@ -1,5 +1,5 @@
 body {
-	background-color: #000000;
+	background-color: #00093c;
 	
 }
 
@@ -8,38 +8,38 @@ h1 {
 	text-align: center;
 	font-size: 40px;
 	font-family: Baskerville Old Face;
-	color: #fefefb;
+	color: #e0fda3;
 }
 
 
 h2 {
 	text-align: center;
-	color: #fefefb;
+	color: #e0fda3;
 	font-family: Baskerville Old Face;
 	font-size: 19px
 }
 
 h3 {
 	text-align: center;
-	color: #fefefb;
+	color: #e0fda3;
 	font-family: Baskerville Old Face;
 	font-size: 19px
 }
 
 
 p {
-	color: #fefefb;
+	color: #e0fda3;
 	font-family: Baskerville Old Face;
 	font-size: 19px
 }
 
 a:link {
-	color: #8f5dc3;
+	color: #42bb8d;
 	text-decoration: none
 }
 
 a:visited {
-	color: #532187;
+	color: #45798c;
 	text-decoration: none
 }
 
@@ -48,5 +48,5 @@ a:hover {
 }
 
 a:active {
-	background-color: #ffffff
+	background-color: #040102;
 }
